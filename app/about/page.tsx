@@ -161,25 +161,4 @@ const workplaces = [
     imageSrc: hinesLogo,
     link: "https://hines.com",
   },
-  {
-    title: "Software Engineer",
-    company: "PeriShip",
-    time: "2021 - 2022",
-    imageSrc: perishipLogo,
-    link: "https://peripharma.com/",
-  },
-  {
-    title: "Python Developer",
-    company: "CAMS",
-    time: "2019 - 2020",
-    imageSrc: camsLogo,
-    link: "https://camstex.com",
-  },
-  {
-    title: "Coding Camp Instructor",
-    company: "University of Houston",
-    time: "2019",
-    imageSrc: uhdLogo,
-    link: "https://www.uhd.edu/",
-  },
 ];
